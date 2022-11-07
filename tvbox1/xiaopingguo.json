@@ -12,7 +12,7 @@
 		},
 		{
 			"key": "csp_Kunyu77",
-			"name": "🍎备份源一",
+			"name": "🍎酷云77",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -21,7 +21,7 @@
 		},
 		{
 			"key": "csp_CZSPP",
-			"name": "🍎爱看",
+			"name": "🍎厂长",
 			"type": 3,
 			"api": "csp_Czsapp",
 			"searchable": 1,
@@ -29,10 +29,10 @@
 			"filterable": 0
 		},
 		{
-			"key": "spider_IKan",
-			"name": "🍎备份源三",
+			"key": "Smdyy_spider",
+			"name": "🍎神马",
 			"type": 3,
-			"api": "csp_IKan",
+			"api": "csp_Smdyy",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
