@@ -12,7 +12,7 @@
 		},
 		{
 			"key": "csp_Kunyu77",
-			"name": "🍎酷云77",
+			"name": "🍎备用源一",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -21,7 +21,7 @@
 		},
 		{
 			"key": "csp_CZSPP",
-			"name": "🍎厂长",
+			"name": "🍎备用源二",
 			"type": 3,
 			"api": "csp_Czsapp",
 			"searchable": 1,
@@ -29,35 +29,8 @@
 			"filterable": 0
 		},
 		{
-			"key": "Smdyy_spider",
-			"name": "🍎神马",
-			"type": 3,
-			"api": "csp_Smdyy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "spider_IKan",
-			"name": "🍎备份源四",
-			"type": 3,
-			"api": "csp_IKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Lezhu_spider",
-			"name": "🍎乐猪",
-			"type": 3,
-			"api": "csp_Lezhu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "KanSJ_spider",
-			"name": "🍎备份源六",
+			"name": "🍎备用源三",
 			"api": "csp_KanSJ",
 			"type": 3,
 			"filterable": 1,
@@ -67,7 +40,7 @@
 		},
 		{
 			"key": "Lezhu_spider",
-			"name": "🍎备份源七",
+			"name": "🍎备用源四",
 			"api": "csp_Lezhu",
 			"type": 3,
 			"filterable": 1,
@@ -77,7 +50,7 @@
 		},
 		{
 			"key": "Smdyy",
-			"name": "🍎备份源八",
+			"name": "🍎备用源五",
 			"type": 3,
 			"api": "csp_Smdyy",
 			"searchable": 1,
@@ -86,7 +59,7 @@
 		},
 		{
 			"key": "快看",
-			"name": "🍎备份源九",
+			"name": "🍎备用源六",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
