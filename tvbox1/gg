@@ -243,6 +243,36 @@
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 		{
+			"key": "音乐",
+			"name": "🎤音乐现场",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/a492890454/TVbox/raw/branch/master/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
+		},
+		{
+			"key": "热舞",
+			"name": "💃女团热舞",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/a492890454/TVbox/raw/branch/master/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
+		},
+		{
+			"key": "儿童",
+			"name": "🐯儿童乐园",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/a492890454/TVbox/raw/branch/master/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+		},
+		{
 			"key": "学习",
 			"name": "📝学习园地",
 			"type": 3,
@@ -251,6 +281,36 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://agit.ai/a492890454/TVbox/raw/branch/master/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+		},
+		{
+			"key": "软件",
+			"name": "📚软件教程",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/a492890454/TVbox/raw/branch/master/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+		},
+		{
+			"key": "美食",
+			"name": "🍔美食合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/a492890454/TVbox/raw/branch/master/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+		},
+		{
+			"key": "戏曲",
+			"name": "👘戏曲合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/a492890454/TVbox/raw/branch/master/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
 		},
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
