@@ -79,7 +79,6 @@ CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 凤凰台,#genre#
-翡翠台,http://38.60.38.190:2023/dl/1.php?id=12
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
  凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd 
  凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1 
@@ -485,6 +484,7 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 金色学堂 8M,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
 
 
 重庆有线,#genre#
