@@ -78,27 +78,23 @@ CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
-凤凰资讯http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-凤凰资讯http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰资讯http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-凤凰卫视http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰卫视http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰卫视http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-
-
-凤凰香港https://pull-l3-cny.douyincdn.com/live/YesLiveTV-0277fe70-f48c-47f3-ae01-ea912959e3cb.m3u8
-凤凰香港http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-凤凰香港http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-
-
-凤凰中文https://pull-l3-cny.douyincdn.com/live/YesLiveTV-165dc5f7-0550-4234-8a46-3bbfc3abebfc.m3u8
-凤凰中文http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰中文http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-凤凰中文http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰中文http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
-凤凰电影http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰卫视,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰卫视,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-0277fe70-f48c-47f3-ae01-ea912959e3cb.m3u8
+凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+凤凰中文,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-165dc5f7-0550-4234-8a46-3bbfc3abebfc.m3u8
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
 
 
