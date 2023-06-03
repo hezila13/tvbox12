@@ -579,7 +579,11 @@
 ],
 
 "parses": [{
-		"name": "解析聚合",
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	}, {
+		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
 	}, {
