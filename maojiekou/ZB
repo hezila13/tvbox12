@@ -689,7 +689,7 @@ Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_de
 西藏卫视,http://221.2.36.34:8888/newlive/live/hls/37/live.m3u8
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
-纯享4K#genre#
+纯享4K,#genre#
 纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
