@@ -38,7 +38,6 @@
 {"key":"csp_XBPQ_ 咕噜咕噜","name":"💢咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/咕噜咕噜.json"},
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://framagit.org/00700/tvbox/-/raw/main/xBPQ/voflix.json"},
 {"key":"csp_fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://v.bulei.cc"},
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeiJu69","name":"🗽69美剧","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
