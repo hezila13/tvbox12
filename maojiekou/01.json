@@ -6,6 +6,16 @@
 
 	"sites":[
 {"key": "小苹果","name": "🍎苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/CloudMist/TVBox/raw/commit/6bb312b944d3ae34fafc4aa05927aa1dc654d500/xpg.jar;md5;1522fb7f6ed2116a3da54bb1c8e5b441"},
+{
+            "key": "小苹果",
+            "name": "🍎主力源",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./108.jar"
+        },
  {
             "key": "csp_77",
             "name": "┃SP┃七七影视",
@@ -15,15 +25,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_apple",
-            "name": "┃SP┃苹果影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         {
             "key": "csp_kuaikan",
             "name": "┃SP┃快看影视",
