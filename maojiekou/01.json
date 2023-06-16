@@ -82,14 +82,14 @@
 {"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"}
 ],
 "parses": [{
-		"name": "Json聚合",
-		"type": 3,
-		"url": "Demo"
-	}, {
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
-	}, {
+	},{
+		"name": "Json聚合",
+		"type": 3,
+		"url": "Demo"
+	},  {
 		"name": "未知",
 		"type": 1,
 		"url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="
