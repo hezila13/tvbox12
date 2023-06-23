@@ -5,6 +5,7 @@
    "sites":[ 
 {"key":"csp_77","name":"👒酷云七七┃","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Czsapp","name": "🏭┃厂长┃影视","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"},
+{"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/tva云播.js"},
 {"key":"影探4K","name":"💧影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
 {"key":爱迪V2,"name":"爱迪影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"}, 
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
