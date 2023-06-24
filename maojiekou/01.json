@@ -87,6 +87,15 @@
 		"type": 3,
 		"url": "Demo"
 	}, {
+      "name": "但行好事",
+      "type": 1,
+      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
+    },
+    {
+      "name": "莫问前程",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    },{
 		"name": "360",
 		"type": 1,
 		"url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="
