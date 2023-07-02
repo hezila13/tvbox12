@@ -7,6 +7,11 @@
 {"key": "Czsapp","name": "🏭┃厂长┃影视","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"},
 {"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/tva云播.js"},
 {"key": "csp_XBPQ_nmys","name": "🚲┃农民┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
+{"key":"爱奇异","name":"🚛爱奇艺(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+{"key":"优酷","name":"🚛优酷(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
+{"key":"腾讯","name":"🚛腾讯(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
+{"key":"芒果","name":"🚛芒果(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
+{"key":"搜狗","name":"🚛搜狗(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
 {
       "key": "csp_appys_影探",
       "name": "❤影探主接口|4K",
@@ -180,11 +185,7 @@
       "name": "莫问前程",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },{
-		"name": "360",
-		"type": 1,
-		"url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="
-	}, {
+    }, {
 		"name": "777",
 		"type": 0,
 		"url": "https://jx.777jiexi.com/player/?url=",
