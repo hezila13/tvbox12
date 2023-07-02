@@ -215,7 +215,7 @@
 	}, {
 		"name": "bozrc",
 		"type": 0,
-		"url": "http://175.178.27.43:6644/sf/qq295.php?url=",
+		"url": "https://110.42.2.98:22222/api/?key=Ao0fRsCuqe1YPqyiUA&url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
