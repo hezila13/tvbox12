@@ -8,6 +8,24 @@
 {"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/tva云播.js"},
 {"key": "csp_XBPQ_nmys","name": "🚲┃农民┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 {
+      "key": "素白白影视",
+      "name": "素白白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
+    },
+{
+      "key": "drpy_js_优酷",
+      "name": "官源 | 优酷[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+{
       "key": "Qtv",
       "name": "🐧┃企鹅┃官源",
       "type": 3,
