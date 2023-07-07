@@ -39,14 +39,14 @@
       ]
     },
 {
-      "key": "yunyun",
-      "name": "🗯️️芸芸┃BPQ",
+      "key": "小艺",
+      "name": "🗯️小艺┃APP",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://xhww.fun:63/小米/源/爱肥猫.json"
+      "filterable": 1,
+      "ext": "https://lg.tvcms.top/api.php/app/"
     },
 {
       "key": "瑞丰",
