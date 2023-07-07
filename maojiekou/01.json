@@ -1,6 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 { 
- "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CA41C8A17E8180EB0FEF46E4EAEACFF3", 
+ "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;5c497cae38522e64961e061cace5be95", 
  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302", 
    "sites":[ 
 {"key": "Czsapp","name": "🏭┃厂长┃影视","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"},
