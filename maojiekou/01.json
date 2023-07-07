@@ -39,6 +39,39 @@
       ]
     },
 {
+      "key": "王子",
+      "name": "王子┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://xhww.fun:63/小米/源/王子.json"
+    },    
+{
+      "key": "土豪",
+      "name": "土豪┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+        "搜索模式": "1",
+        "二次截取": "1&&-1+module-item-cover",
+        "数组": "module-item-pic&&module-item-cover",
+        "副标题": "module-item-text*>&&</div",
+        "搜索url": "https://tuhao.tv/vse/-------------.html?wd={wd}",
+        "线路数组": "<div class=\"module-tab-item tab-item&&</div[不包含:无尽#闪电#天空#飞速#卧龙]",
+        "线路标题": "<span>&&</span",
+        "搜索数组": "class=\"module-item-pic&&</div",
+        "搜索图片": "data-src=\"&&\"",
+        "搜索标题": "alt=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "跳转播放链接": "https://tuhao.tv/addons/dp/player/dp.php?key=0&from=+\"from\":\"&&\"+&id=+\"id\":\"&&\"+&api=&url=+vod_class*url\":\"&&\"",
+        "二次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+{
       "key": "小艺",
       "name": "🗯️小艺┃APP",
       "type": 3,
