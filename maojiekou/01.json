@@ -248,15 +248,6 @@
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"
     },
 {
-      "key": "陌陌",
-      "name": "🍄陌陌┃直连",
-      "type": 3,
-      "api": "csp_MmYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-{
       "key": "素白白影视",
       "name": "素白白┃影视",
       "type": 3,
