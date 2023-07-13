@@ -20,14 +20,14 @@
       "ext": "http://xhww.fun:63/小米/源/王子.json"
     },    
 {
-      "key": "小艺",
-      "name": "🗯️小艺┃APP",
+      "key": "csp_低端",
+      "name": "🅱️低端影视|T追剧",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://lg.tvcms.top/api.php/app/"
+      "ext": "./xBPQ/低端影视.json"
     },
 {
       "key": "瑞丰",
