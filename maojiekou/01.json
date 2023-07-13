@@ -3,11 +3,11 @@
  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;5c497cae38522e64961e061cace5be95", 
  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302", 
    "sites":[ 
+{"key": "csp_XBPQ_nmys","name": "🚲┃农民┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 {"key": "Czsapp","name": "🏭┃厂长┃影视","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"},
 {"key":"csp_77","name":"👒酷云七七┃","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/tva云播.js"},
-{"key": "csp_XBPQ_nmys","name": "🚲┃农民┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 { "key": "csp_XYQHiker_‍dyx", "name": "宇宙磁力4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 {
       "key": "王子",
@@ -19,16 +19,6 @@
       "filterable": 0,
       "ext": "http://xhww.fun:63/小米/源/王子.json"
     },    
-{
-      "key": "csp_低端",
-      "name": "🅱️低端影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./xBPQ/低端影视.json"
-    },
 {
       "key": "瑞丰",
       "name": "辣辣┃APP",
