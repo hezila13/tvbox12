@@ -18,17 +18,6 @@
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
     },
 {
-      "key": "139影视",
-      "name": "139┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/139影视.js"
-    },
-{
       "key": "539影视",
       "name": "539┃影视",
       "type": 3,
