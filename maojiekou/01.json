@@ -380,14 +380,14 @@
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
-	},{
+	},,{
 		"name": "爱奇艺",
-		"type": 0,
-		"url": "https://jx.zhanlangbu.com/?url="
+		"type": 1,
+		"url": "http://svip.realdou.cn/home/api?type=ys&uid=1738434&key=abfhlvwyAIJLOW1457&url="
 	},{
 		"name": "芒果",
 		"type": 1,
-		"url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
+		"url": "http://139.159.239.156:88/api/jsonindex.php/?key=14K1BeQVhThoRY5zXx&url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
@@ -401,14 +401,14 @@
 	},{
 		"name": "360",
 		"type": 1,
-		"url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=",
+		"url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=",
 		"ext": {
 			"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]
 		} 
 	},{
 		"name": "搜狗",
 		"type": 1,
-		"url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=",
+		"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=abdrvyzBGQRTVWZ468&mgtv=app&url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
@@ -416,14 +416,19 @@
         "name": "腾讯",
         "type": 0, 
         "url": "https://jx.777jiexi.com/player/?url="
-    },{
+  },{
+        "name": "飞云",
+        "type": 1, 
+        "url": "http://htp.behds.cn/json/520235app6/mlzjphp111.php?url=", 
+	    "ext": { "flag": [ "FY" ] }
+  },{
 		"name": "精选1",
 		"type": 1,
-		"url": "http://bingfa.behds.cn/indexappzhuanyong.php?url=",
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
-  },{
+},{
 	    "name": "车哥", 
 	    "type": 1, 
 	    "url": "https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url=", 
