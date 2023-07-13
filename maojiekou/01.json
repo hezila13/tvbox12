@@ -7,17 +7,6 @@
 {"key": "Czsapp","name": "🏭┃厂长┃影视","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"},
 {"key":"csp_77","name":"👒酷云七七┃","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {
-      "key": "素白白影视",
-      "name": "素白白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
-    },
-{
       "key": "539影视",
       "name": "539┃影视",
       "type": 3,
@@ -200,6 +189,17 @@
       "filterable": 1,
       "ext": "http://luoye.shop:66/api.php/app/"
     },
+{
+      "key": "素白白影视",
+      "name": "素白白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
+    },    
 {
       "key": "饭团",
       "name": "饭团┃BPQ",
