@@ -39,15 +39,6 @@
       "changeable": 1
     },
 {
-      "key": "探探",
-      "name": "🏵探探┃App",
-      "type": 3,
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-{
       "key": "迪迪",
       "name": "😎迪迪┃App",
       "api": "csp_AppYsV2",
@@ -269,17 +260,7 @@
       "changeable": 1,
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"
     },
-{
-      "key": "素白白影视",
-      "name": "素白白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
-    },
+
 {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷[js]",
