@@ -380,7 +380,7 @@
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
-	},,{
+	},{
 		"name": "爱奇艺",
 		"type": 1,
 		"url": "http://svip.realdou.cn/home/api?type=ys&uid=1738434&key=abfhlvwyAIJLOW1457&url="
