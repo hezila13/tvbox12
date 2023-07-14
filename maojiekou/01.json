@@ -333,17 +333,6 @@
 {"key":"drpy_kb","name":"外国地区用🛫酷播影视(墙外)","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/ixinshang/dr_py/raw/branch/master/js/KUBO影视[飞].js"},
 {"key": "dr_htu","name": "外国地区用✈️海兔影院[飞]","type": 3,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/ymz1231/js/-/raw/main/海兔影院_飞_.js"},   
 {"key": "dr_flin","name": "外国地区用✈️枫林影院[飞]", "type": 3,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/ymz1231/js/-/raw/main/枫林网_飞_.js"},
- {
-      "key": "csp_Bili合集",
-      "name": " 🅱哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./sub/ext/B站.txt"
-    },
-{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/blzb.js"},
 {"key":"csp_xpath_dmw","name":"🍉动漫岛┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/dmw.json"},
 {"key":"csp_学习园地","name":"📐学习园地┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/学习园地.json"},
 {"key": "学堂1","name": "🌈儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/45057/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json?sign=SvZQIzzhBZrd1VgLXmlLHq7dIERpEZDw56IBJBznjHk%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/45064/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar?sign=D0pzbWI8AQ_vZQ8NPuv5wRgd8VSq7ihW9OSrJtQkHOM%3D%3A0"},
@@ -358,6 +347,7 @@
 {"key": "js虎牙", "name": "🐅┃虎牙┃直播","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/虎牙直播.js","searchable": 0,"quickSearch": 0,"filterable": 0},{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
 {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/json/斗鱼.json"},
 {"key":"csp_XBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/短视频.json"},
+{"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/哔哩合集.json"},
 {
     "key": "MV",
     "name": "🌈音乐MV",
