@@ -56,16 +56,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://lg.tvcms.top/api.php/app/"
-    },    
-{
-      "key": "csp_AppMr",
-      "name": "👻┃明明┃影视",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },      
+    },        
 {
       "key": "迪迪",
       "name": "😎迪迪┃App",
