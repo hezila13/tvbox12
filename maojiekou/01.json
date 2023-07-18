@@ -6,6 +6,15 @@
 {"key": "csp_XBPQ_nmys","name": "🚲┃农民┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 {"key": "Czsapp","name": "🏭┃厂长┃影视","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"},
 {
+      "key": "阿里资源",
+      "name": "阿里┃切片",
+      "type": 1,
+      "api": "https://cms.alyzy.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "playUrl": "https://player.emofun.cn/player/ec.php?code=xy&if=1&url=",
+      "quickSearch": 1
+    },
+{
       "key": "七七",
       "name": "🌈┃七七┃影视",
       "type": 3,
