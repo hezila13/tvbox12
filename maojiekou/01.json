@@ -249,18 +249,6 @@
       "changeable": 1,
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
     },    
-
-{
-      "key": "Vidhub",
-      "name": "Vidhub┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/Vidhub.json"
-    },
 {
       "key": "奇优影院",
       "name": "奇优┃影视",
@@ -384,7 +372,7 @@
     {
       "name": "✌️夜曲",
       "type": 1,
-      "url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
+      "url": "http://json.g9.pub:66/?url=",
       "ext": {
         "flag": [
           "mgtv",
