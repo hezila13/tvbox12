@@ -319,7 +319,6 @@
 {"key":"csp_Nbys","name":"外国地区用👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"外国地区用💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"外国地区用🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "drpy_js_多瑙影视","name": "外国地区用 | 多瑙影视[js]","type": 3, "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/多瑙影视.js","playerType": "2"},
 {"key":"drpy_js_小宝影视","name":"外国地区用🎖小宝影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/小宝影视.js"},
 {"key":"drpy_js_欧乐影院","name":"外国地区用🎖欧乐影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/欧乐影院.js"},
 {"key":"drpy_hh","name":"外国地区用吼吼影视(墙外)","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/HoHo影视.js"},
