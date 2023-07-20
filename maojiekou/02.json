@@ -15,6 +15,15 @@
       "changeable": 1
     },
 {
+      "key": "csp_DiDuan",
+      "name": "⏮️低端┃直连",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },   
+{
       "key": "阿里资源",
       "name": "阿里┃切片",
       "type": 1,
@@ -56,15 +65,6 @@
       "filterable": 1
     },   
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{
-      "key": "csp_DiDuan",
-      "name": "⏮️低端┃直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 {
       "key": "csp_蚂蚁影院",
       "name": "🌼┃蚂蚁┃影视",
