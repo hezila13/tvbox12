@@ -18,7 +18,17 @@
         "4K电影",
         "儿童4K"
       ]
-    },    
+    },
+{
+      "key": "飞速",
+      "name": "🚄┃影探┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://yt3823.lfytyl.com/api.php/app/"
+    },        
 {
       "key": "肥猫",
       "name": "😸┃肥猫┃影视",
