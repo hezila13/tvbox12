@@ -27,7 +27,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.love:63/json/芸芸.json"
-    },     
+    }, 
+{
+      "key": "素白",
+      "name": "素白┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "http://xhww.fun:63/小米/源/素白.json"
+    },       
 {
       "key": "滋滋",
       "name": "滋滋┃BPQ",
@@ -304,17 +312,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://luoye.shop:66/api.php/app/"
-    },
-{
-      "key": "素白白影视",
-      "name": "素白白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
     },    
 {
       "key": "奇优影院",
