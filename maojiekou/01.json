@@ -13,7 +13,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },   
+    },
+{
+      "key": "小蚂蚁",
+      "name": "NBY┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xhww.fun:63/小米/源/小蚂蚁.json"
+    },        
 {
       "key": "肥猫",
       "name": "😸┃肥猫┃影视",
@@ -156,31 +163,6 @@
       "changeable": 1,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-{
-      "key": "酷影",
-      "name": "😎┃酷影┃影院",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.realdou.cn:62703/api.php/app/",
-      "categories": [
-        "4K电视剧",
-        "4K电影",
-        "儿童4K"
-      ]
-    },
-{
-      "key": "飞速",
-      "name": "🚄┃影探┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://yt3823.lfytyl.com/api.php/app/"
-    }, 
 {"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/tva云播.js"},
 { "key": "csp_XYQHiker_‍dyx", "name": "宇宙磁力4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 {
